@@ -1,3 +1,10 @@
 # Laboratorio-git
 Valentina Castilla
-## cambios en repo remoto
+
+## Github
+
+![Github logo](/images/github-logo.png)
+
+## References
+
+- [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
